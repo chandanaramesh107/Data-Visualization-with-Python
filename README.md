@@ -16,6 +16,11 @@ This project includes 5 tasks:
   
   4.A window showing the graph using Matplotlib's pyplot
   
+  ![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_1_task1.png)
+  
+  ![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_2_task1.png)
+  
+  
 # Task 2-MatPlotLib Pyplot
 
   Create:
@@ -28,11 +33,17 @@ This project includes 5 tasks:
   
   4.Create a Legend for the graph
   
+  ![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_task2.png)
+  
 # Task 3-Scatterplot Graph
   
   1.Create a plot with individual data plot scattered
   
   2.Create a regression to show possible correlation
+  
+  ![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_1_task3.png)
+  
+  ![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_2_task3.png)
   
 # Task 4-Seaborn Heatmap
 
@@ -40,8 +51,12 @@ This project includes 5 tasks:
   
   Create using a new births data set:(months,year,numberb of births)
   
+  ![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_1_task4.png)
+  
 # Task 5-Seaborn jointPlot
 
 1.Popular type of graph-good for looking at the distribution and data points at the same time
 
 2.Has an option to display different kind of graph-parameter called kind
+
+![Screenshot](https://github.com/chandanaramesh107/Data-Visualization-with-Python/blob/master/Figure_1_task5.png)
